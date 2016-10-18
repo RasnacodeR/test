@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476720227 source:/home/duke/Documents/Lavoro/AlsaTest/sound_playback.c
+	<alsa/asoundlib.h>
+	<stdio.h>
+
